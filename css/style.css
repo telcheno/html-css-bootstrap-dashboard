@@ -18,3 +18,8 @@ img{
   justify-content: space-around;
 }
 
+.element{
+  width: 758px;
+  height: 647px;
+  border: 1px solid cornflowerblue;
+}
